@@ -49,4 +49,4 @@ exports.getAllBooking = factory.getAll(Booking);
 exports.getBooking = factory.getOne(Booking);
 exports.createBooking = factory.createOne(Booking);
 exports.updateBooking = factory.updateOne(Booking);
-exports.deletaBooking = factory.deleteOne(Booking)
+exports.deletaBooking = factory.deleteOne(Booking);
